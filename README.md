@@ -11,7 +11,7 @@
 <h3 align="left" style="color:#00d9ff;">📞 Contact:</h3>
 <p align="left" style="font-size:1.2rem; color:#f1f1f1;">
   📱 Phone: <strong>01273562297</strong><br>
-  💬 WhatsApp: <a href="https://wa.me/20127356297" target="_blank" style="color:#25D366; text-decoration:none; font-weight:bold;">Click to Chat</a>
+  💬 WhatsApp: <a href="https://wa.me/201273562297" target="_blank" style="color:#25D366; text-decoration:none; font-weight:bold;">Click to Chat</a>
 </p>
 
 <hr style="border:0; height:2px; background:linear-gradient(to right, transparent, #00d9ff, transparent); margin:30px 0;">
