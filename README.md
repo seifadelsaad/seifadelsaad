@@ -8,17 +8,10 @@
 
 <hr style="border:0; height:2px; background:linear-gradient(to right, transparent, #00d9ff, transparent); margin:30px 0;">
 
-<h3 align="left" style="color:#00d9ff;">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="margin-right:10px;"/>
-  </a>
-  <a href="https://github.com/YOUR-GITHUB" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="github" style="margin-right:10px;"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
-  </a>
+<h3 align="left" style="color:#00d9ff;">📞 Contact:</h3>
+<p align="left" style="font-size:1.2rem; color:#f1f1f1;">
+  📱 Phone: <strong>01273562297</strong><br>
+  💬 WhatsApp: <a href="https://wa.me/20127356297" target="_blank" style="color:#25D366; text-decoration:none; font-weight:bold;">Click to Chat</a>
 </p>
 
 <hr style="border:0; height:2px; background:linear-gradient(to right, transparent, #00d9ff, transparent); margin:30px 0;">
@@ -47,7 +40,6 @@
 
 <hr style="border:0; height:2px; background:linear-gradient(to right, transparent, #00d9ff, transparent); margin:30px 0;">
 
-<h3 align="center" style="color:#00d9ff;">🎬 Fun Zone:</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Life Code Animation" width="400" style="border-radius:12px; box-shadow:0px 4px 15px rgba(0,0,0,0.5); margin:10px;">
   <img src="https://media.giphy.com/media/zleSBdKyVFUekD7SvV/giphy.gif" alt="Black G-Fla Animation" width="400" style="border-radius:12px; box-shadow:0px 4px 15px rgba(0,0,0,0.5); margin:10px;">
